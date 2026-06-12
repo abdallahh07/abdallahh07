@@ -1,4 +1,4 @@
-<!-- ════════════════ HEADER ════════════════ -->
+ <!-- ════════════════ HEADER ════════════════ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1F283E,50:2B3653,100:1F283E&text=Abdallah%20Hashad&fontColor=F4F4F4&fontSize=52&fontAlignY=36&desc=Quantitative%20Finance%20%C3%97%20Machine%20Learning&descColor=EDCC80&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
@@ -33,7 +33,7 @@ class AbdallahHashad:
                 "goal": "models that answer real economic questions, not just minimise loss"}
 ```
 
-🌐 **Portfolio:** [abdallah-hashad.vercel.app](https://portfolio-rho-three-v6f18jwj5o.vercel.app) &nbsp;•&nbsp; 📊 **Kaggle:** [abdallahhashad0](https://www.kaggle.com/abdallahhashad0) &nbsp;•&nbsp; ✍️ **Medium:** [@abdallahhashad029](https://medium.com/@abdallahhashad029)
+🌐 **Portfolio:** [abdallah-hashad.vercel.app](https://github.com/abdallahh07) &nbsp;•&nbsp; 📊 **Kaggle:** [abdallahhashad0](https://www.kaggle.com/abdallahhashad0) &nbsp;•&nbsp; ✍️ **Medium:** [@abdallahhashad029](https://medium.com/@abdallahhashad029)
 
 ---
 
@@ -94,16 +94,23 @@ class AbdallahHashad:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdallahh07&show_icons=true&bg_color=161D2E&title_color=EDCC80&text_color=F4F4F4&icon_color=EDCC80&border_color=2B3653&rank_icon=github&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahh07&layout=compact&bg_color=161D2E&title_color=EDCC80&text_color=F4F4F4&border_color=2B3653&langs_count=6" />
+<table>
+  <tr>
+    <td>
+      <img height="195" src="https://github-readme-stats.vercel.app/api?username=abdallahh07&show_icons=true&bg_color=161D2E&title_color=EDCC80&text_color=F4F4F4&icon_color=EDCC80&border_color=2B3653&rank_icon=github&count_private=true&card_width=445" />
+    </td>
+    <td>
+      <img height="195" src="https://streak-stats.demolab.com?user=abdallahh07&background=161D2E&ring=EDCC80&fire=EDCC80&currStreakLabel=EDCC80&sideLabels=F4F4F4&currStreakNum=F4F4F4&sideNums=F4F4F4&dates=8C93A8&border=2B3653&card_width=445&card_height=195" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahh07&layout=donut&bg_color=161D2E&title_color=EDCC80&text_color=F4F4F4&border_color=2B3653&hide=jupyter%20notebook&langs_count=6&card_width=445" />
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=abdallahh07&background=161D2E&ring=EDCC80&fire=EDCC80&currStreakLabel=EDCC80&sideLabels=F4F4F4&currStreakNum=F4F4F4&sideNums=F4F4F4&dates=8C93A8&border=2B3653" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallahh07&bg_color=161D2E&color=F4F4F4&line=EDCC80&point=F4F4F4&area=true&area_color=2B3653&hide_border=false&border_color=2B3653" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallahh07&bg_color=161D2E&color=F4F4F4&line=EDCC80&point=EDCC80&area=true&area_color=2B3653&hide_border=false&border_color=2B3653&custom_title=Contribution%20activity%20%E2%80%94%20last%2031%20days&height=320" width="97%" />
 
 </div>
 
