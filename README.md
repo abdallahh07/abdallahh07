@@ -33,7 +33,7 @@ class AbdallahHashad:
                 "goal": "models that answer real economic questions, not just minimise loss"}
 ```
 
-🌐 **Portfolio:** [abdallah-hashad.vercel.app](https://github.com/abdallahh07) &nbsp;•&nbsp; 📊 **Kaggle:** [abdallahhashad0](https://www.kaggle.com/abdallahhashad0) &nbsp;•&nbsp; ✍️ **Medium:** [@abdallahhashad029](https://medium.com/@abdallahhashad029)
+🌐 **Portfolio:** [abdallah-hashad.vercel.app](https://portfolio-rho-three-v6f18jwj5o.vercel.app) &nbsp;•&nbsp; 📊 **Kaggle:** [abdallahhashad0](https://www.kaggle.com/abdallahhashad0) &nbsp;•&nbsp; ✍️ **Medium:** [@abdallahhashad029](https://medium.com/@abdallahhashad029)
 
 ---
 
@@ -97,7 +97,7 @@ class AbdallahHashad:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abdallah-hashad"><img src="https://img.shields.io/badge/LinkedIn-2B3653?style=for-the-badge&logo=linkedin&logoColor=EDCC80" /></a>
+<a href="https://www.linkedin.com/in/abdallah-hashad-1a6254249/"><img src="https://img.shields.io/badge/LinkedIn-2B3653?style=for-the-badge&logo=linkedin&logoColor=EDCC80" /></a>
 <a href="https://www.kaggle.com/abdallahhashad0"><img src="https://img.shields.io/badge/Kaggle-2B3653?style=for-the-badge&logo=kaggle&logoColor=EDCC80" /></a>
 <a href="https://medium.com/@abdallahhashad029"><img src="https://img.shields.io/badge/Medium-2B3653?style=for-the-badge&logo=medium&logoColor=EDCC80" /></a>
 <a href="mailto:abdallahhashad029@gmail.com"><img src="https://img.shields.io/badge/Email-2B3653?style=for-the-badge&logo=gmail&logoColor=EDCC80" /></a>
