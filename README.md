@@ -41,38 +41,19 @@ class AbdallahHashad:
 
 <div align="center">
 
-#### Machine Learning & Data
+#### Machine Learning
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,scikitlearn,tensorflow,pytorch&theme=dark" alt="Python, pandas, NumPy, scikit-learn, TensorFlow, PyTorch" />
 
-<img src="https://img.shields.io/badge/Python-2B3653?style=for-the-badge&logo=python&logoColor=EDCC80" />
-<img src="https://img.shields.io/badge/pandas-2B3653?style=for-the-badge&logo=pandas&logoColor=EDCC80" />
-<img src="https://img.shields.io/badge/NumPy-2B3653?style=for-the-badge&logo=numpy&logoColor=EDCC80" />
-<img src="https://img.shields.io/badge/scikit--learn-2B3653?style=for-the-badge&logo=scikitlearn&logoColor=EDCC80" />
-<img src="https://img.shields.io/badge/TensorFlow-2B3653?style=for-the-badge&logo=tensorflow&logoColor=EDCC80" />
-<img src="https://img.shields.io/badge/CatBoost-2B3653?style=for-the-badge&logo=catboost&logoColor=EDCC80" />
-<img src="https://img.shields.io/badge/XGBoost-2B3653?style=for-the-badge&logoColor=EDCC80" />
-<img src="https://img.shields.io/badge/SHAP-2B3653?style=for-the-badge&logoColor=EDCC80" />
-
-#### Data Engineering & Analysis
-
-<img src="https://img.shields.io/badge/SQL-2B3653?style=for-the-badge&logo=sqlite&logoColor=EDCC80" />
-<img src="https://img.shields.io/badge/Jupyter-2B3653?style=for-the-badge&logo=jupyter&logoColor=EDCC80" />
-<img src="https://img.shields.io/badge/Power_BI-2B3653?style=for-the-badge&logoColor=EDCC80" />
-<img src="https://img.shields.io/badge/Matplotlib-2B3653?style=for-the-badge&logoColor=EDCC80" />
-<img src="https://img.shields.io/badge/Seaborn-2B3653?style=for-the-badge&logoColor=EDCC80" />
-
-#### Quantitative Finance
-
-<img src="https://img.shields.io/badge/DCF_%26_Valuation-2B3653?style=for-the-badge&logoColor=EDCC80" />
-<img src="https://img.shields.io/badge/Monte_Carlo-2B3653?style=for-the-badge&logoColor=EDCC80" />
-<img src="https://img.shields.io/badge/Excel_VBA-2B3653?style=for-the-badge&logoColor=EDCC80" />
-<img src="https://img.shields.io/badge/yfinance_API-2B3653?style=for-the-badge&logoColor=EDCC80" />
+#### Data & Visualisation
+<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,matplotlib,seaborn,pbi,mysql,sqlite&theme=dark" alt="Jupyter, Matplotlib, Seaborn, Power BI, MySQL, SQLite" />
 
 #### Tools
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,excel,apple&theme=dark" alt="Git, GitHub, VS Code, Excel, macOS" />
 
-<img src="https://img.shields.io/badge/Git-2B3653?style=for-the-badge&logo=git&logoColor=EDCC80" />
-<img src="https://img.shields.io/badge/GitHub-2B3653?style=for-the-badge&logo=github&logoColor=EDCC80" />
-<img src="https://img.shields.io/badge/macOS-2B3653?style=for-the-badge&logo=apple&logoColor=EDCC80" />
-<img src="https://img.shields.io/badge/VS_Code-2B3653?style=for-the-badge&logoColor=EDCC80" />
+#### Quantitative Finance
+<img src="https://img.shields.io/badge/DCF_%26_Valuation-2B3653?style=for-the-badge&logoColor=EDCC80" />
+<img src="https://img.shields.io/badge/Monte_Carlo_Stress--Testing-2B3653?style=for-the-badge&logoColor=EDCC80" />
+<img src="https://img.shields.io/badge/yfinance_API-2B3653?style=for-the-badge&logoColor=EDCC80" />
 
 </div>
 
@@ -80,13 +61,13 @@ class AbdallahHashad:
 
 ## 📌 Featured projects
 
-| Project                                                                                                      | What it does                                                    | Stack                      |
-| ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------- | -------------------------- |
+| Project | What it does | Stack |
+|---|---|---|
 | 🏠 [moscow-real-estate-price-prediction](https://github.com/abdallahh07/moscow-real-estate-price-prediction) | 0.98 R² CV — CatBoost / XGBoost / LGBM ensembles, SHAP analysis | `Python` `CatBoost` `SHAP` |
-| 🌾 [food-price-inflation-analysis](https://github.com/abdallahh07/food-price-inflation-analysis)             | ML pipeline predicting global food price shocks (1990–2024)     | `Python` `LGBM` `Power BI` |
-| 🏡 [airbnb-revenue-prediction](https://github.com/abdallahh07/airbnb-revenue-prediction)                     | Revenue model on 90k+ EU listings, incl. leakage detection      | `Python` `CatBoost`        |
-| 🩺 [Diabetes-classification](https://github.com/abdallahh07/Diabetes-classification)                         | 6 classifiers with tuned sklearn pipelines                      | `Python` `scikit-learn`    |
-| 🎓 [student-performance-prediction](https://github.com/abdallahh07/student-performance-prediction)           | Score regression with sklearn pipelines                         | `Python` `scikit-learn`    |
+| 🌾 [food-price-inflation-analysis](https://github.com/abdallahh07/food-price-inflation-analysis) | ML pipeline predicting global food price shocks (1990–2024) | `Python` `LGBM` `Power BI` |
+| 🏡 [airbnb-revenue-prediction](https://github.com/abdallahh07/airbnb-revenue-prediction) | Revenue model on 90k+ EU listings, incl. leakage detection | `Python` `CatBoost` |
+| 🩺 [Diabetes-classification](https://github.com/abdallahh07/Diabetes-classification) | 6 classifiers with tuned sklearn pipelines | `Python` `scikit-learn` |
+| 🎓 [student-performance-prediction](https://github.com/abdallahh07/student-performance-prediction) | Score regression with sklearn pipelines | `Python` `scikit-learn` |
 
 ---
 
@@ -94,11 +75,29 @@ class AbdallahHashad:
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=abdallahh07&show_icons=true&bg_color=161D2E&title_color=EDCC80&text_color=F4F4F4&icon_color=EDCC80&border_color=2B3653&rank_icon=github&count_private=true&card_width=495" />
+
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com?user=abdallahh07&background=161D2E&ring=EDCC80&fire=EDCC80&currStreakLabel=EDCC80&sideLabels=F4F4F4&currStreakNum=F4F4F4&sideNums=F4F4F4&dates=8C93A8&border=2B3653&card_width=495" />
 
 <br/><br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallahh07&bg_color=161D2E&color=F4F4F4&line=EDCC80&point=EDCC80&area=true&area_color=2B3653&hide_border=false&border_color=2B3653&custom_title=Contribution%20activity%20%E2%80%94%20last%2031%20days&height=320" width="97%" />
+
 </div>
+
+---
+
+## 🐍 Contribution snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abdallahh07/abdallahh07/output/snake-gold.svg" alt="Contribution snake animation" />
+
+</div>
+
+---
 
 ## 🤝 Connect
 
