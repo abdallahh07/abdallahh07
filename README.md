@@ -75,15 +75,9 @@ class AbdallahHashad:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdallahh07&show_icons=true&bg_color=161D2E&title_color=EDCC80&text_color=F4F4F4&icon_color=EDCC80&border_color=2B3653&rank_icon=github&count_private=true&card_width=495" />
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=abdallahh07&background=161D2E&ring=EDCC80&fire=EDCC80&currStreakLabel=EDCC80&sideLabels=F4F4F4&currStreakNum=F4F4F4&sideNums=F4F4F4&dates=8C93A8&border=2B3653&card_width=495" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallahh07&bg_color=161D2E&color=F4F4F4&line=EDCC80&point=EDCC80&area=true&area_color=2B3653&hide_border=false&border_color=2B3653&custom_title=Contribution%20activity%20%E2%80%94%20last%2031%20days&height=320" width="97%" />
 
 </div>
 
