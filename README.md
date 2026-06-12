@@ -107,18 +107,6 @@ class AbdallahHashad:
 
 </div>
 
----
-
-## 🐍 Contribution snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abdallahh07/abdallahh07/output/snake-gold.svg" alt="Contribution snake animation" />
-
-</div>
-
----
-
 ## 🤝 Connect
 
 <div align="center">
